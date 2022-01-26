@@ -1,3 +1,4 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/usagerex)
 <p align="center">
     <a href="https://github.com/UsergeTeam/Userge">
         <img src="resources/userge.png" alt="Userge">
